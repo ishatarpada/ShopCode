@@ -1,0 +1,12 @@
+/* Add this media query to handle screen widths of 958px or below */
+@media (max-width: 958px) {
+  .mobile-menu {
+      display: block;
+  }
+
+  .desktop-menu {
+      display: none;
+  }
+}
+
+
